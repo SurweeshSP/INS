@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv_cuda/
+venv/
+env/
+.env
+
+# Deep Learning / Model weights
+*.pth
+*.pt
+*.weights
+*.onnx
+checkpoints/
+experiments/
+training/
+evaluation/
+
+# Data and large files
+*.zip
+*.pdf
+*.csv
+dataset/
+datasets/
+preprocess_data/
+Synchronised V abd S datasets/
+Unsynchronised V and S Dataset/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+torch
+torchvision
+torchaudio
+
+numpy
+pandas
+scipy
+scikit-learn
+PyWavelets
+tabulate
